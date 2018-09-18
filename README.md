@@ -1,2 +1,2 @@
 # Learning-Blender
-A collection of stuff made while learning Blender
+A bunch of stuff made while learning Blender
