@@ -1,9 +1,9 @@
-# Learning-Blender
+# **Learning-Blender**
 A bunch of stuff made while learning Blender
 
-### Models:
-- __Doughnut__ &rarr; [Renders/Doughnut.png](Renders/Doughnut.png)
-- __Pen__ &rarr; [Renders/Pen.png](Renders/Pen.png)
-- __Lamp__ &rarr; [Renders/Lamp.png](Renders/Lamp.png)
-- __Nail Cutter__ &rarr; [Renders/Nail Cutter.png](Renders/Nail%20Cutter.png)
-- __Castle__ &rarr; [Renders/Castle.png](Renders/Castle.png)
+## **Models:**
+![Renders/Doughnut.png](Renders/Doughnut.png)
+![Renders/Pen.png](Renders/Pen.png)
+![Renders/Lamp.png](Renders/Lamp.png)
+![Renders/Nail Cutter.png](Renders/Nail%20Cutter.png)
+![Renders/Castle.png](Renders/Castle.png)
